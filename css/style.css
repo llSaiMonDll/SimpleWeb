@@ -32,3 +32,11 @@
       p{
         padding-top: 20px;
       }
+      button{
+        background-color: #333333;
+        color: #00FF00;
+        border-radius: 5px;
+      }
+      button:hover{
+        box-shadow:4px 3px rgb(217, 213, 213);
+      }
